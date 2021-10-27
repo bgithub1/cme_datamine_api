@@ -1,0 +1,11 @@
+*.log
+logfile
+*.pyc
+.ipynb_checkpoints
+*.ipynb-e
+.settings
+.DS_Store
+.pydevproject
+.project
+__pycache__
+weekly_files.*
